@@ -2,8 +2,6 @@
 
 A full-stack, role-based hospital management web application built for managing patients, appointments, doctors, services, and payments with AI-powered disease prediction and comprehensive analytics.
 
-🔗 [**GitHub Repository**](https://github.com/Coder1809/hospitalmanagement-sys)
-
 This project is designed to streamline hospital operations with secure authentication, appointment booking, payment handling, and predictive insights for better patient care.
 
 ---
@@ -102,7 +100,7 @@ This project is designed to streamline hospital operations with secure authentic
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Gangasai232/Neocure.git
+git clone https://github.com/Coder1809/hosiptal-management-system.git
 cd Hospital-Management
 ```
 
